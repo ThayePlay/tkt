@@ -1,4 +1,4 @@
-﻿local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/ThayePlay/MTScript/main/MT_Gui_OPL_Def.lua')))()
+﻿local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/karotquipu/MTScript/main/MT_Gui_OPL_Def.lua')))()
 local Player = game.Players.LocalPlayer
 local Window = OrienLib:MakeWindow({Name = "Key System", HidenPrenium = false, SaveConfig = true, IntroEnabled = false})
 
